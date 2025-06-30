@@ -1,5 +1,5 @@
 # QUERY TUGAS PROJECT DATA WRANGLING
-**1. IMPORT FILE DAN MENAMPILKAN 5 BARIS PERTAMA**
+<p1>**1. IMPORT FILE DAN MENAMPILKAN 5 BARIS PERTAMA**<p1>
 
 ![Query1](https://github.com/user-attachments/assets/7d5b5e1a-3835-4436-a69f-20ce4d4467de)
 
@@ -22,3 +22,10 @@ PENJELASAN TERKAIT QUERY DIATAS :
 - Tipe data tiap kolom
 - Cek apakah ada nilai kosong di setiap baris
 
+**3. PENGECEKAPAN PENULISAN PADA ISI FILE YANG DIUPLOAD**
+
+![Query3](https://github.com/user-attachments/assets/2d0789d8-fcfe-4e70-a017-17cee67fddd6)
+
+PENJELASAN TERKAIT QUERY DIATAS :
+- Menghilangkan spasi di awal/akhir
+- Ubah huruf jadi kapital semua supaya seragam
