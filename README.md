@@ -29,12 +29,14 @@ PENJELASAN TERKAIT QUERY DIATAS :
 
 **4. PENGECEKAN DUPLIKASI**
 
-![Query4](https://github.com/user-attachments/assets/0b5aa0c1-5798-4ddc-8835-c26e40ce020b)
+![Query9](https://github.com/user-attachments/assets/378c0b6b-0895-4459-b69a-c1b6d8164c9d)
 
 PENJELASAN TERKAIT QUERY DIATAS :
-- **df.duplicated().sum()** : Lihat berapa baris duplikat
+- **df.duplicated(subset=['NamaJudulKolom']).sum()** : Lihat berapa baris duplikat
 
-- **df = df.drop_duplicates()** : Menghapus data yang duplikat
+![Query10](https://github.com/user-attachments/assets/579083d3-400d-4fc3-9c10-88863dbf69fd)
+PENJELASAN TERKAIT QUERY DIATAS :
+- **df = df.drop_duplicates(subset=['NamaJudulKolom'])** : Menghapus data yang duplikat
 
 **5. MEMASTIKAN TIDAK ADA KOLOM YANG KOSONG**
 
