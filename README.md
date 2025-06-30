@@ -29,3 +29,15 @@ PENJELASAN TERKAIT QUERY DIATAS :
 PENJELASAN TERKAIT QUERY DIATAS :
 - Menghilangkan spasi di awal/akhir
 - Ubah huruf jadi kapital semua supaya seragam
+
+**4. PENGECEKAN DUPLIKASI**
+
+![Query4](https://github.com/user-attachments/assets/0b5aa0c1-5798-4ddc-8835-c26e40ce020b)
+
+PENJELASAN TERKAIT QUERY DIATAS :
+- df.duplicated().sum()
+# Lihat berapa baris duplikat
+
+- df = df.drop_duplicates()
+# Menghapus data yang duplikat
+
