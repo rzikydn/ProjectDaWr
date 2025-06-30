@@ -4,14 +4,11 @@
 ![Query1](https://github.com/user-attachments/assets/7d5b5e1a-3835-4436-a69f-20ce4d4467de)
 
 PENJELASAN TERKAIT QUERY DIATAS :
-- import pandas as pd
-Berguna untuk mengimpor libray **pandas** kedalam python
+- **import pandas as pd** : Berguna untuk mengimpor libray **pandas** kedalam python
 
-- df = pd.read_excel("Kependudukan_dki.xlsx")
-Berguna untuk membaca file yang ingin di import
+- **df = pd.read_excel("Kependudukan_dki.xlsx")** : Berguna untuk membaca file yang ingin di import
 
-- df.head()
-Berguna untuk menampilkan 5 baris pertama
+- **df.head()** : Berguna untuk menampilkan 5 baris pertama
 
 **2. MENGETAHUI DETAIL LENGKAP DATA FILE YANG DI UPLOAD**
 
@@ -35,7 +32,8 @@ PENJELASAN TERKAIT QUERY DIATAS :
 ![Query4](https://github.com/user-attachments/assets/0b5aa0c1-5798-4ddc-8835-c26e40ce020b)
 
 PENJELASAN TERKAIT QUERY DIATAS :
-- df.duplicated().sum() : **Lihat berapa baris duplikat**
-- df = df.drop_duplicates() : **Menghapus data yang duplikat**
+- **df.duplicated().sum()** : Lihat berapa baris duplikat
+
+- **df = df.drop_duplicates()** : Menghapus data yang duplikat
 
 
