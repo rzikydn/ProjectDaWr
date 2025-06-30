@@ -35,9 +35,8 @@ PENJELASAN TERKAIT QUERY DIATAS :
 ![Query4](https://github.com/user-attachments/assets/0b5aa0c1-5798-4ddc-8835-c26e40ce020b)
 
 PENJELASAN TERKAIT QUERY DIATAS :
-- df.duplicated().sum()
-# Lihat berapa baris duplikat
+- df.duplicated().sum() : Lihat berapa baris duplikat
 
-- df = df.drop_duplicates()
-# Menghapus data yang duplikat
+- df = df.drop_duplicates() : Menghapus data yang duplikat
+
 
