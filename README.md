@@ -19,7 +19,7 @@ PENJELASAN TERKAIT QUERY DIATAS :
 - Tipe data tiap kolom
 - Cek apakah ada nilai kosong di setiap baris
 
-**3. PENGECEKAPAN PENULISAN PADA ISI FILE YANG DIUPLOAD**
+**3. PENGECEKAN PENULISAN PADA ISI FILE YANG DIUPLOAD**
 
 ![Query3](https://github.com/user-attachments/assets/2d0789d8-fcfe-4e70-a017-17cee67fddd6)
 
