@@ -14,6 +14,7 @@ Berguna untuk membaca file yang ingin di import
 Berguna untuk menampilkan 5 baris pertama
 
 **2. MENGETAHUI DETAIL LENGKAP DATA FILE YANG DI UPLOAD**
+
 ![Query2](https://github.com/user-attachments/assets/384e0891-d458-4bb7-90af-acaddd63b51b)
 
 PENJELASAN TERKAIT QUERY DIATAS :
