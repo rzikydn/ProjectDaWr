@@ -47,7 +47,7 @@ PENJELASAN TERKAIT QUERY DIATAS :
 
 **6. FUNGSI PIVOT**
 
-![Query7](https://github.com/user-attachments/assets/52c52c3b-f60a-4db8-adc8-52157af6827a)
+![query13](https://github.com/user-attachments/assets/3e60d518-2354-4a84-96f5-596a3e7727c7)
 
 PENJELASAN TERKAIT QUERY DIATAS :
 - Berguna untuk menggantikan fungsi pivot table Excel untuk total jumlah penduduk per kecamatan
