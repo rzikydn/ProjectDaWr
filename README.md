@@ -68,7 +68,7 @@ PENJELASAN TERKAIT QUERY DIATAS :
 
 **9. CEK JUMLAH TOTAL MISSING VALUES DI SELURUH DATAFRAME**
 
-![query12](https://github.com/user-attachments/assets/0dc901db-3cf2-4f97-bd12-ec8ed683b2ad)
+![query12)](https://github.com/user-attachments/assets/7791fd32-3705-4aef-8f20-b56420d35011)
 
 PENJELASAN TERKAIT QUERY DIATAS :
 - Berguna untuk cek total missing values di seluruh dataframe yang ada
