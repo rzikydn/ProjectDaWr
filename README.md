@@ -38,35 +38,28 @@ PENJELASAN TERKAIT QUERY DIATAS :
 PENJELASAN TERKAIT QUERY DIATAS :
 - **df = df.drop_duplicates(subset=['NamaJudulKolom'])** : Menghapus data yang duplikat
 
-**5. MEMASTIKAN TIDAK ADA KOLOM YANG KOSONG**
-
-![Query5](https://github.com/user-attachments/assets/4bec37eb-b7d1-4413-8788-25c6c1c5c2fe)
-
-PENJELASAN TERKAIT QUERY DIATAS :
-- Untuk memastikan tidak ada kolom yang kosong
-
-**6. MENGHITUNG NILAI MINIMUM, MAKSIMUM, DAN RATA-RATA**
+**5. MENGHITUNG NILAI MINIMUM, MAKSIMUM, DAN RATA-RATA**
 
 ![Query6](https://github.com/user-attachments/assets/ef9a6b48-04d7-407b-9ab2-b2a72193341e)
 
 PENJELASAN TERKAIT QUERY DIATAS :
 - Berguna untuk cek statistik dasar tergantung statistik apa yang digunakan
 
-**7. FUNGSI PIVOT**
+**6. FUNGSI PIVOT**
 
 ![Query7](https://github.com/user-attachments/assets/52c52c3b-f60a-4db8-adc8-52157af6827a)
 
 PENJELASAN TERKAIT QUERY DIATAS :
 - Berguna untuk menggantikan fungsi pivot table Excel untuk total jumlah penduduk per kecamatan
 
-**8. MENAMPILKAN SEMUA BARIS DAATA**
+**7. MENAMPILKAN SEMUA BARIS DAATA**
 
 ![Query8](https://github.com/user-attachments/assets/d415d2fe-5dcd-4d6e-9cba-325718cf3b69)
 
 PENJELASAN TERKAIT QUERY DIATAS :
 - Berguna untuk menampilkan semua baris data
 
-**9. CEK JUMLAH TOTAL MISSING VALUES DI SELURUH DATAFRAME**
+**8. CEK JUMLAH TOTAL MISSING VALUES DI SELURUH DATAFRAME**
 
 ![query12)](https://github.com/user-attachments/assets/7791fd32-3705-4aef-8f20-b56420d35011)
 
