@@ -29,10 +29,13 @@ PENJELASAN TERKAIT QUERY DIATAS :
 
 **4. PENGECEKAN DUPLIKASI**
 
-![Query9](https://github.com/user-attachments/assets/378c0b6b-0895-4459-b69a-c1b6d8164c9d)
+![WhatsApp Image 2025-07-07 at 14 26 09_af191aea](https://github.com/user-attachments/assets/141e7eb7-0f9d-4436-82a4-5aa466b2a728)
 
 PENJELASAN TERKAIT QUERY DIATAS :
-- **df.duplicated(subset=['NamaJudulKolom']).sum()** : Lihat berapa baris duplikat
+- **for col in df.columns:
+    count = df[col].duplicated().sum()
+    if count > 0:
+        print(f"{col}: {count} duplikat")** : Lihat berapa baris duplikat
 
 ![Query10](https://github.com/user-attachments/assets/579083d3-400d-4fc3-9c10-88863dbf69fd)
 PENJELASAN TERKAIT QUERY DIATAS :
